@@ -1,0 +1,10 @@
+import:
+  - "~/.config/alacritty/Jamesons-Dark.yml"
+  - "~/.config/alacritty/keys.yml"
+  - "~/.config/alacritty/font.yml"
+window:
+  decorations: None
+scrolling:
+  history: 100000
+live_config_reload: true
+

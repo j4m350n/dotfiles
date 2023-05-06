@@ -1,0 +1,58 @@
+draw_bold_text_with_bright_colors: true
+colors:
+  primary:
+    background: "#121212" 
+    dim_foreground: "#999999"
+    foreground: "#BBBBBB"
+    bright_foreground: "#FFFFFF"
+  cursor:
+    text: CellForeground
+    cursor: "#FFFFFF"
+  search:
+    matches:
+      foreground: "#000000"
+      background: "#FFFFFF"
+    focused_match:
+      foreground: "#FFFFFF"
+      background: "#000000"
+  line_indicator:
+    foreground: "#FFFFFF"
+    background: "#424242"
+  footer_bar:
+    foreground: "#FFFFFF"
+    background: "#323232"
+  selection:
+    text: CellForeground
+    background: "#795548"
+  normal:
+    black:   "#121212"
+    red:     "#E53935"
+    green:   "#4CAF50"
+    yellow:  "#FFB300"
+    blue:    "#2196F3"
+    magenta: "#3F51B5"
+    cyan:    "#009688"
+    white:   "#BBBBBB"
+  bright:
+    black:   "#3B3B3B"
+    red:     "#EF5350"
+    green:   "#81C784"
+    yellow:  "#FFCA28"
+    blue:    "#64B5F6"
+    magenta: "#7986CB"
+    cyan:    "#4DB6AC"
+    white:   "#FFFFFF"
+  dim:
+    black:   "#000000"
+    red:     "#B71C1C"
+    green:   "#388E3C"
+    yellow:  "#FFA000"
+    blue:    "#1976D2"
+    magenta: "#303F9F"
+    cyan:    "#00796B"
+    white:   "#999999"
+cursor:
+  style:
+    shape: Block
+    blinking: Off
+  unfocused_hollow: true
