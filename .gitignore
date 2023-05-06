@@ -19,6 +19,10 @@
 !/.config/
 !/.config/**/
 
+# Setupfile
+
+!/.config/setup.yml
+
 ## Alacritty
 !/.config/alacritty/*.yml
 

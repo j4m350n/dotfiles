@@ -1,0 +1,16 @@
+installers:
+  - "brew"
+  - "tpm"
+casks:
+  - "1password"
+  - "1password-cli"
+  - "alacritty"
+  - "alt-tab"
+  - "discord"
+  - "microsoft-edge"
+  - "rectangle"
+  - "spotify"
+formulas:
+  - "starship"
+  - "tmux"
+
