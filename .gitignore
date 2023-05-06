@@ -14,16 +14,6 @@
 ## Fonts
 !/.assets/**/*.ttf
 
-# Setup files
-
-!/.setup/
-!/.setup/**/
-
-## Homebrew
-
-!/.setup/formulas/*
-!/.setup/casks/*
-
 # Configurations
 
 !/.config/
