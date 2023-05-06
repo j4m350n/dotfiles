@@ -1,0 +1,30 @@
+*
+!/.gitignore
+
+# Assets
+!/.assets/
+!/.assets/**/
+
+## Fonts
+!/.assets/**/*.ttf
+
+# Setup files
+
+!/.setup/
+!/.setup/**/
+
+## Homebrew
+
+!/.setup/formulas/*
+!/.setup/casks/*
+
+# Configurations
+
+!/.config/
+!/.config/**/
+
+## Alacritty
+!/.config/alacritty/*.yml
+
+# Re-Ignore
+.DS_Store
