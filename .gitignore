@@ -1,6 +1,12 @@
 *
 !/.gitignore
 
+# Notes
+!/.notes/
+!/.notes/**/
+!/.notes/**/*.txt
+!/.notes/**/*.md
+
 # Assets
 !/.assets/
 !/.assets/**/
