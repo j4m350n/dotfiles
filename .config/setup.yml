@@ -13,4 +13,4 @@ casks:
 formulas:
   - "starship"
   - "tmux"
-
+  - "wget"
