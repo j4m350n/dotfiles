@@ -1,0 +1,1 @@
+for file in $HOME/.config/zsh/alias/*.zsh; source $file

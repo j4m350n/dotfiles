@@ -23,6 +23,12 @@
 
 !/.config/setup.yml
 
+# Shell
+!/.hushlogin
+!/.zshrc
+!/.config/zsh/**/
+!/.config/zsh/**/*.zsh
+
 ## Alacritty
 !/.config/alacritty/*.yml
 
